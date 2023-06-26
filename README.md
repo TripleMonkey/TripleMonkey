@@ -5,7 +5,7 @@ Currently Specializing in iOS development, my latest project is migrating an old
 ---
 
 ### Interested in working with me? ###
-Check out some of work **[here](https://triplemonkeystudio.com)**
+Check out some of my work **[here](https://triplemonkeystudio.com)**
 
 Contact me here: nigel@triplemonkeystudio.com
  
