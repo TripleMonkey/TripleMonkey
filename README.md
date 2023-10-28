@@ -7,7 +7,7 @@ Currently Specializing in iOS development, my latest project is migrating an old
 ### Interested in working with me? ###
 Check out some of my work **[here](https://triplemonkeystudio.com)**
 
-Contact me here: nigel@triplemonkeystudio.com
+Contact me here: triplemonkeystudio@gmail.com
  
 <!---
 TripleMonkey/TripleMonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
