@@ -1,6 +1,6 @@
 # I’m Nigel — Artist — Designer — Developer #
 
-Currently Specializing in iOS development, my latest project is migrating an old UIKit game to the SwiftUI framework.
+Currently studying at the Apple Developer Academy in Detroit Michigan.
 
 ---
 
